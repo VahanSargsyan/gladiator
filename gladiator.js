@@ -52,7 +52,7 @@ function arena() {
 }
 
 
-gladiators = factori(5)
+let gladiators = factori(5)
 arena();
 
 
